@@ -75,7 +75,7 @@ This may require a nightly version of `cargo` if you get an error about the `ins
 
 ## Compiling
 
-Follow these instructions to compile `cargo-count`, then skip down to Installation.
+Follow these instructions to compile `cargo-graph`, then skip down to Installation.
 
  1. Ensure you have current version of `cargo` and [Rust](https://www.rust-lang.org) installed
  2. Clone the project `$ git clone https://github.com/kbknapp/cargo-graph && cd cargo-graph`
